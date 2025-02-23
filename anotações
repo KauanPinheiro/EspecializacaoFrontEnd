@@ -1,0 +1,31 @@
+Titulos {
+
+os títulos são conhecidos com headigs
+utilizamos principalmente para separa seções 
+o nome da Tag é h*, onde pode ser um valor de 1 a 6
+o maior título é o h1, e também é o mais importante,colocamos apenas um por página 
+a importância deve estar conectada com o próposito da nossa página 
+este assusnto faz parte do html semâtico, um tópico mais avançado
+
+}
+
+Parágrafos {
+
+utilizamos os parágrafos para inserir textos maiores
+a tag é <p>
+cada parágrafo começa uma nova linha, e este comportamento acontece 
+com todas as tags de bloco
+temos várias de bloco, os títulos fazem parte deste grupo
+
+}
+
+Tags sem conteúdo {
+
+nós temos em HTML tags sem conteúdo 
+elas possuem recursos geralmente, como quebra linha 
+para este fim podemos utilizat a tag <br/>
+para um linha horizontal temos <hr/>
+eles também introduzem o conceito de self closing tags, onde a tag não
+possui uma outra tag de fechamnento
+
+}
