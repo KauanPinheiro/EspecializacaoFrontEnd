@@ -29,3 +29,32 @@ eles também introduzem o conceito de self closing tags, onde a tag não
 possui uma outra tag de fechamnento
 
 }
+
+Atributos {
+
+atributos podemo ser utilizados para adicionar funcionalidades as tags 
+a tag "a" é responsável por nos direcionar a uma nova página ou site 
+mas aonde vamos adicionar o endereço/URL?
+colocamos no atributo chamado href
+um exemplo:        <a href="https://www.google.com">Google</a>
+nestem exemplo, ao clicar no link o usuario é redirecionado para o google 
+}
+
+abrir nova aba {
+
+com um atributo podemos fazer o link abrir em uma nova aba
+isso é utilizado frequentemente para redirecionar a outro site
+por exemplo: temos um link que leva a um e-commerce que não é nosso
+não temos aquele domínio 
+então utilizamos o atributo target com o valor_blank 
+}
+
+imagens no html {
+
+nós podemos inserir imagens no nosso site com a tag img 
+o caminho relativo até a imagem é inserida no atributo src
+normalmente colocamos a imagem numa pasta chamafa img ou assets
+para fins de organização
+
+nota: a imagem pe uma self closing tag
+}
