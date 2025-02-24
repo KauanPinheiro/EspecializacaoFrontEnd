@@ -58,3 +58,42 @@ para fins de organização
 
 nota: a imagem pe uma self closing tag
 }
+
+Lista não ordenadas {
+
+Listas são importantes para muitos fins nos sites
+podemos até criar um menu a partir de uma lista 
+as não ordenadas são criadas pela tag "Ul"
+cada item na lista é representado pela tag "li"~
+
+}
+
+Listas ordenadas {
+
+listas ordenadas são interresantes para qunado há um 
+procesimento ou passos a serem seguidos
+
+exemplo: a receita de algum alimento
+    agora utilizamos a tag "ol"
+
+e os itens continuam sendo a tag li
+}
+
+Tabelas {
+
+nós usamos tabelas para exibir dados que podem ser categorizados em 
+colunas 
+tabelas são estruturas complexas no html, e não tão utlizadas
+precisamos da tag 'table', isso cria a tabela 
+e també um cabeçaçho e um comportamento
+cada linha é criada em uma tag 'tr', e os dados ficam em 'td'
+no cabeçalho utilizamos a tag 'th'
+}
+
+Div {
+
+a tag div é utilizada para divisões/seções no nosso site
+podemos criar elementos menores também, como cards 
+o principal propóstito é: encapsular elementos que estão conectados entre sit
+
+}

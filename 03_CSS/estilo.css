@@ -1,0 +1,20 @@
+/*  4 externo */
+
+body{
+    padding-bottom: 500px;
+}
+
+h3 {
+    color: green;
+}
+
+.paragrafo{
+    background-color: black;
+    color: blue;
+}
+
+#paragraf{
+    background-color: aqua;
+    color: orange;
+    font-size: 50px;
+}
